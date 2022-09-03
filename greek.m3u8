@@ -9,7 +9,7 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 https://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-id="skai.gr" group-title="Greek",SKAI
 https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="mega.gr" group-title="Greek",Open Beyond TV
+#EXTINF:-1 tvg-id="openbeyond.gr" group-title="Greek",Open Beyond TV
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Greek",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
