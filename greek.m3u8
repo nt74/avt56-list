@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,ERT World HD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1,Mega TV
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1,Alpha TV
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1,Star Channel
+https://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1,SKAI
+https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1,Open Beyond TV
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1,ART
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1,Kriti TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1,Epirus TV1
+https://til.pp.ua:3928/live/epiruslive.m3u8
+#EXTINF:-1,Ionian TV
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
