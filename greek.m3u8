@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="Greek",ERT News
-https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 tvg-id="mega.gr" group-title="Greek",Mega TV
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-id="alpha.gr" group-title="Greek",Alpha TV
@@ -9,6 +7,8 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 https://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-id="skai.gr" group-title="Greek",SKAI
 https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="skai.gr" group-title="Greek",SKAI (backup)
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="openbeyond.gr" group-title="Greek",Open Beyond TV
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Greek",ART
