@@ -41,7 +41,5 @@ https://svt1-c.akamaized.net/se/svt1/master.m3u8
 https://svt2-c.akamaized.net/se/svt2/master.m3u8
 #EXTINF:-1 tvg-id="SVT24.se" group-title="Swedish",SVT24
 https://svtb-c.akamaized.net/se/svtb/master.m3u8
-#EXTINF:-1 tvg-id="TV4.se" group-title="Swedish",TV4
-https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
-#EXTINF:-1 tvg-id="kunskapskanalen.se" group-title="Swedish",SVT Kunskapskanalen [Geo-blocked]
+#EXTINF:-1 tvg-id="kunskapskanalen.se" group-title="Swedish",SVT Kunskapskanalen
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
