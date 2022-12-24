@@ -5,10 +5,14 @@ http://tv.dreamhost.hitv.one:80/71QAfJ7kXI414/QMADTv42/9973
 http://tv.dreamhost.hitv.one:80/71QAfJ7kXI414/QMADTv42/9977
 #EXTINF:-1 tvg-id="ert3.gr" group-title="Greek",ERT 3
 http://tv.dreamhost.hitv.one:80/71QAfJ7kXI414/QMADTv42/9975
+#EXTINF:24 group-title="Greek",ERT SPORTS 
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="mega.gr" group-title="Greek",Mega TV (Web)
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-id="mega.gr" group-title="Greek",Mega TV
 http://tv.dreamhost.hitv.one:80/71QAfJ7kXI414/QMADTv42/37839
+#EXTINF:-1 tvg-id="ant1.gr" group-title="Greek",ANT1 EUROPE
+http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 tvg-id="ant1.gr" group-title="Greek",ANT1
 http://tv.dreamhost.hitv.one:80/71QAfJ7kXI414/QMADTv42/9989
 #EXTINF:-1 tvg-id="ant1.gr" group-title="Greek",ANT1 (Backup)
@@ -31,3 +35,13 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1 tvg-id="" group-title="Greek",Ionian TV
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SVT1.se" group-title="Swedish",SVT1
+https://svt1-c.akamaized.net/se/svt1/master.m3u8
+#EXTINF:-1 tvg-id="SVT2.se" group-title="Swedish",SVT2
+https://svt2-c.akamaized.net/se/svt2/master.m3u8
+#EXTINF:-1 tvg-id="SVT24.se" group-title="Swedish",SVT24
+https://svtb-c.akamaized.net/se/svtb/master.m3u8
+#EXTINF:-1 tvg-id="TV4.se" group-title="Swedish",TV4
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+#EXTINF:-1 tvg-id="kunskapskanalen.se" group-title="Swedish",SVT Kunskapskanalen [Geo-blocked]
+https://svtk-c.akamaized.net/se/svtk/master.m3u8
