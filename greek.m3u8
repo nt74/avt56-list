@@ -48,10 +48,10 @@ https://www.youtube.com/c/madtvgreece/live
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV HD Greek Hits
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="SVT1.se" group-title="Swedish",SVT1
-https://svt1-c.akamaized.net/se/svt1/master.m3u8
+https://svt1-c.akamaized.net/se/svt1/manifest.mpd?defaultSubLang=1
 #EXTINF:-1 tvg-id="SVT2.se" group-title="Swedish",SVT2
-https://svt2-c.akamaized.net/se/svt2/master.m3u8
+https://svt2-c.akamaized.net/se/svt2/manifest.mpd?defaultSubLang=1
 #EXTINF:-1 tvg-id="SVT24.se" group-title="Swedish",SVT24
-https://svtb-c.akamaized.net/se/svtb/master.m3u8
+https://svtb-c.akamaized.net/se/svtb/manifest.mpd?defaultSubLang=1
 #EXTINF:-1 tvg-id="kunskapskanalen.se" group-title="Swedish",SVT Kunskapskanalen
-https://svtk-c.akamaized.net/se/svtk/master.m3u8
+https://svtk-c.akamaized.net/se/svtk/manifest.mpd?defaultSubLang=1
