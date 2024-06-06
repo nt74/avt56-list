@@ -12,7 +12,7 @@ http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/ant
 #EXTINF:-1 group-title="Greek" tvg-id="alpha.gr" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Greek" tvg-id="star.gr" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR
-http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:-1 group-title="Greek" tvg-id="skai.gr" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="Greek" tvg-id="openbeyond.gr" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV
@@ -22,7 +22,7 @@ http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/makt
 #EXTINF:3004 group-title="Greek" tvg-name="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Greek",ART
-https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
+https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8?
 #EXTINF:-1 group-title="Greek" tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Greek" tvg-logo="https://i.imgur.com/MaMJO96.png",EPIRUS TV1
