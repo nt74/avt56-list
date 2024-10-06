@@ -11,6 +11,8 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="OpenTV.gr",Open TV (720p)
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.gr",Star Channel (720p)
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="MakedoniaTV.gr",Makedonia TV (1080p) [Geo-blocked]
