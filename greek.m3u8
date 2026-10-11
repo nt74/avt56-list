@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Action24.gr",Action 24 (1080p)
+#EXTINF:-1 tvg-id="Action24.gr",Action 24 (1080p) [Not 24/7]
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlphaTV.gr",Alpha TV (720p) [Not 24/7]
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlphaTV.gr",Alpha TV (1080p)
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr",ANT1 (1080p) [Geo-blocked]
-http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
-#EXTINF:-1 tvg-id="ANT1.gr",ANT1 (Cyprus)
+#EXTVLCOPT:http-referrer=http://watch.antennaplus.gr
+#EXTVLCOPT:http-user-agent=Chrome
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 tvg-id="ANT1.gr",ANT1 (Cyprus) [Unverified]
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
-http://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="OpenTV.gr",Open TV (720p)
+#EXTINF:-1 tvg-id="OpenTV.gr",Open TV (720p) [Unverified]
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.gr",Star Channel (720p)
-http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 tvg-id="StarChannel.gr",STAR HD (1080p)
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="MakedoniaTV.gr",Makedonia TV (1080p) [Geo-blocked]
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
-#EXTINF:-1 tvg-id="CorfuTV.gr",Corfu TV (576p) [Not 24/7]
-https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="CorfuChannel.gr",Corfu Channel (720p)
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr",Creta (540p) [Not 24/7]
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="DELTATV.gr",DELTA TV (720p)
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="EllasTV.gr",Ellas TV (1080p)
+#EXTINF:-1 tvg-id="EllasTV.gr",Ellas TV (1080p) [Unverified]
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1 tvg-id="EpirusTV1.gr",Epirus TV1 (1080p)
-https://til.pp.ua:3928/live/epiruslive.m3u8
+#EXTINF:-1 tvg-id="EpirusTV1.gr",Epirus TV1 (720p)
+https://rtmp.win:3929/live/epiruslive.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr",Ionian Channel (1080p) [Not 24/7]
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KontraChannel.gr",Kontra Channel (1080p)
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-id="AtticaTV.gr",Attica TV (1080p)
+#EXTINF:-1 tvg-id="AtticaTV.gr",Attica TV (1080p) [Unverified]
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AstraTV.gr",Astra TV (480p) [Not 24/7]
-https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 tvg-id="AstraTV.gr",Astra TV (1080p)
+https://server.gointernet.gr/live/livestream.m3u8
 #EXTINF:-1 tvg-id="StartTV.gr",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="ZouglaTV.gr",Zougla TV (720p)
-https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
-#EXTINF:-1 tvg-id="SVT1.se",SVT1 (720p) [Geo-blocked]
-https://ed6.cdn.svt.se/l0/se/svt1/manifest.mpd?defaultSubLang=1
-#EXTINF:-1 tvg-id="SVT2.se",SVT2 (720p) [Geo-blocked]
-https://ed3.cdn.svt.se/l0/se/svt2/manifest.mpd?defaultSubLang=1
-#EXTINF:-1 tvg-id="SVT24.se",SVT24 (720p) [Geo-blocked]
-https://ed15.cdn.svt.se/l0/se/svtb/manifest.mpd?defaultSubLang=1
-#EXTINF:-1 tvg-id="Kunskapskanalen.se",SVT Kunskapskanalen (720p) [Geo-blocked]
-https://ed5.cdn.svt.se/l0/se/svtk/manifest.mpd?defaultSubLang=1
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
+#EXTINF:-1 tvg-id="SVT1.se",SVT1 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-id="SVT2.se",SVT2 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-id="SVTBarnSVT24.se",SVT Barn/SVT24 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-id="Kunskapskanalen.se",SVT Kunskapskanalen (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
